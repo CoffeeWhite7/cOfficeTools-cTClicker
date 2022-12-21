@@ -1,0 +1,17 @@
+D:\source\repos\cTClicker\cTClicker\bin\Release\net6.0-windows\cTClicker.exe
+D:\source\repos\cTClicker\cTClicker\bin\Release\net6.0-windows\cTClicker.deps.json
+D:\source\repos\cTClicker\cTClicker\bin\Release\net6.0-windows\cTClicker.runtimeconfig.json
+D:\source\repos\cTClicker\cTClicker\bin\Release\net6.0-windows\cTClicker.dll
+D:\source\repos\cTClicker\cTClicker\bin\Release\net6.0-windows\cTClicker.pdb
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.csproj.AssemblyReference.cache
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.Clicker.resources
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.csproj.GenerateResource.cache
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.AssemblyInfoInputs.cache
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.AssemblyInfo.cs
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.csproj.CoreCompileInputs.cache
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.dll
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\refint\cTClicker.dll
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.pdb
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\cTClicker.genruntimeconfig.cache
+D:\source\repos\cTClicker\cTClicker\obj\Release\net6.0-windows\ref\cTClicker.dll
